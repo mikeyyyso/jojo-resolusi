@@ -1,0 +1,6 @@
+my resolution is :
+- html
+- css
+- php
+- javascript
+- c++
