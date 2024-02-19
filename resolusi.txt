@@ -1,9 +1,8 @@
 my resolution is :
-- html
-- css
 - php
 - javascript
 - c++
 - laravel
 - tailwind css
-
+- database
+- node js
