@@ -4,3 +4,6 @@ my resolution is :
 - php
 - javascript
 - c++
+- laravel
+- tailwind css
+
